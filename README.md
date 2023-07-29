@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Fullstack React Ecommerce App with Stripe Payment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Ecommerce App](./ecommerce.png)
 
-## Available Scripts
+[Visit Website](https://xuauul-react-ecommerce.onrender.com) | [Watch Demo Video]()
 
-In the project directory, you can run:
+Welcome to the Fullstack React Ecommerce App with Stripe Payment project! This repository contains the code for building a responsive and user-friendly ecommerce application using React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit.
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Fullstack React Ecommerce App is a complete tutorial where we will build an ecommerce platform from scratch. This application allows users to browse products, add them to the cart, fill out information, and make secure payments using Stripe.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+The project is built using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js
+- Material UI
+- Stripe
+- Formik
+- Yup
+- Strapi
+- Redux Toolkit
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Responsive UI with Material UI:** Enhance the overall user experience and engagement with a user-friendly and responsive design.
+- **Stripe Payment Gateway Integration:** Facilitate secure and smooth online transactions, enabling customers to make purchases using various payment methods.
+- **Formik and Yup:** Implement form validation for seamless and error-free user input handling.
+- **Strapi Headless CMS:** Leverage Strapi to efficiently manage and organize product data, allowing easy updates and maintenance of the online store.
